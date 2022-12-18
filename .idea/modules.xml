@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FirstPart/Exception_01/Exception_01.iml" filepath="$PROJECT_DIR$/FirstPart/Exception_01/Exception_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstPart/Exception_02/Exception_02.iml" filepath="$PROJECT_DIR$/FirstPart/Exception_02/Exception_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstPart/Exception_03/Exception_03.iml" filepath="$PROJECT_DIR$/FirstPart/Exception_03/Exception_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Excetion.iml" filepath="$PROJECT_DIR$/.idea/Excetion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SecondPart/SecondPart.iml" filepath="$PROJECT_DIR$/SecondPart/SecondPart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThirdPart/ThirdPart.iml" filepath="$PROJECT_DIR$/ThirdPart/ThirdPart.iml" />
+    </modules>
+  </component>
+</project>
